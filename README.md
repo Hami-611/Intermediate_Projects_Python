@@ -1,4 +1,4 @@
-# Beginner Projects in Python
+# Beginner, Intermediate and Advance Projects in Python
 
 Welcome to the Beginner Projects in Python repository! This collection is designed to provide a hands-on learning experience for Python beginners through a variety of simple and fun projects. Whether you are new to programming or looking to strengthen your Python skills, this repository is a great starting point.
 
